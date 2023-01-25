@@ -4,7 +4,7 @@
 - 💞️ I’m looking for a job 
 - 
 - 📫  you can contact me by email kakurinn.v@yandex.ru
-- My CV - https://nikitakakurin-cv.netlify.app/
+- My CV - https://nikitakakurin-react-cv.netlify.app/
 
 <!---
 NikitaKakurin/NikitaKakurin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
